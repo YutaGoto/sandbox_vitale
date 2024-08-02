@@ -1,0 +1,26 @@
+{
+  "name": "sample_vitale",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "@githubnext/vitale": "^0.0.17",
+    "@types/node": "~20.14.9",
+    "@types/react": "^18.2.73",
+    "@types/react-dom": "^18.2.23",
+    "typescript": "npm:@githubnext/typescript@5.4.5-hacked.1"
+  },
+  "dependencies": {
+    "@azure-rest/ai-inference": "1.0.0-beta.1",
+    "@azure/core-auth": "^1.7.2",
+    "@azure/core-sse": "^2.1.2",
+    "@octokit/core": "^6.1.2",
+    "@vitejs/plugin-react": "^4.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^5.2.6"
+  }
+}
