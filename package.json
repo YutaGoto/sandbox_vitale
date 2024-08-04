@@ -14,7 +14,7 @@
     "typescript": "npm:@githubnext/typescript@5.4.5-hacked.1"
   },
   "dependencies": {
-    "@azure-rest/ai-inference": "1.0.0-beta.1",
+    "@azure-rest/ai-inference": "1.0.0-beta.2",
     "@azure/core-auth": "^1.7.2",
     "@azure/core-sse": "^2.1.2",
     "@octokit/core": "^6.1.2",

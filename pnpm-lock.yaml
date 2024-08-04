@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@azure-rest/ai-inference':
-        specifier: 1.0.0-beta.1
-        version: 1.0.0-beta.1
+        specifier: 1.0.0-beta.2
+        version: 1.0.0-beta.2
       '@azure/core-auth':
         specifier: ^1.7.2
         version: 1.7.2
@@ -55,8 +55,8 @@ packages:
     resolution: {integrity: sha512-30iZtAPgz+LTIYoeivqYo853f02jBYSd5uGnGpkFV0M3xOt9aN73erkgYAmZU43x4VfqcnLxW9Kpg3R5LC4YYw==}
     engines: {node: '>=6.0.0'}
 
-  '@azure-rest/ai-inference@1.0.0-beta.1':
-    resolution: {integrity: sha512-xa4MmvSo5+EfMNd/sTFy1kfJg1KTqO/+q0aurPNkjooJd8fQnfyXJ0XYTh7/mn4kNcVIJ7dSrxVoOxlybdcIeQ==}
+  '@azure-rest/ai-inference@1.0.0-beta.2':
+    resolution: {integrity: sha512-xPnXJmldQ7vufTT1GtoHPk+korWFnl72whoDB34tb9DALTGGBKIAWobDQBMGYdV2ce0/KdhRFPwnfeZjNyfVsw==}
     engines: {node: '>=18.0.0'}
 
   '@azure-rest/core-client@2.2.0':
@@ -745,7 +745,7 @@ snapshots:
       '@jridgewell/gen-mapping': 0.3.5
       '@jridgewell/trace-mapping': 0.3.25
 
-  '@azure-rest/ai-inference@1.0.0-beta.1':
+  '@azure-rest/ai-inference@1.0.0-beta.2':
     dependencies:
       '@azure-rest/core-client': 2.2.0
       '@azure/abort-controller': 1.1.0
