@@ -9,7 +9,7 @@
   "devDependencies": {
     "@githubnext/vitale": "^0.0.17",
     "@types/node": "~20.14.9",
-    "@types/react": "^18.2.73",
+    "@types/react": "^18.3.4",
     "@types/react-dom": "^18.2.23",
     "typescript": "npm:@githubnext/typescript@5.4.5-hacked.1"
   },
