@@ -7,7 +7,7 @@
   "type": "module",
   "license": "ISC",
   "devDependencies": {
-    "@githubnext/vitale": "^0.0.17",
+    "@githubnext/vitale": "^0.0.19",
     "@types/node": "~22.5.0",
     "@types/react": "^18.3.4",
     "@types/react-dom": "^18.2.23",

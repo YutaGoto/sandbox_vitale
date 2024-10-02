@@ -34,8 +34,8 @@ importers:
         version: 5.4.2(@types/node@22.5.0)
     devDependencies:
       '@githubnext/vitale':
-        specifier: ^0.0.17
-        version: 0.0.17(@types/node@22.5.0)
+        specifier: ^0.0.19
+        version: 0.0.19(@types/node@22.5.0)
       '@types/node':
         specifier: ~22.5.0
         version: 22.5.0
@@ -329,8 +329,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  '@githubnext/vitale@0.0.17':
-    resolution: {integrity: sha512-88vFxRwFrHwOF4ntmUsAohkA67IgJ4kMO3o781KLLwaSi3b/gL0oqQphvtrsbUE1NUbmBt/qMr5U0TXCDRh7iw==}
+  '@githubnext/vitale@0.0.19':
+    resolution: {integrity: sha512-RyJjCeEhBEN1EQb4mu+Tzgb0qcZHYkRIkebzqLlRxHwQLuMYzyGSFgdE85LN5oFtbKyQ2m8eaJYsfYFTJ4t37A==}
     hasBin: true
 
   '@jridgewell/gen-mapping@0.3.5':
@@ -1017,7 +1017,7 @@ snapshots:
 
   '@githubnext/typescript@5.4.5-hacked.1': {}
 
-  '@githubnext/vitale@0.0.17(@types/node@22.5.0)':
+  '@githubnext/vitale@0.0.19(@types/node@22.5.0)':
     dependencies:
       '@babel/generator': 7.25.0
       '@babel/parser': 7.25.3
