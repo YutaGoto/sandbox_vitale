@@ -22,7 +22,7 @@ importers:
         version: 6.1.5
       '@vitejs/plugin-react':
         specifier: ^4.3.4
-        version: 4.3.4(vite@6.3.1(@types/node@22.14.1))
+        version: 4.3.4(vite@6.3.2(@types/node@22.14.1))
       react:
         specifier: ^19.1.0
         version: 19.1.0
@@ -30,8 +30,8 @@ importers:
         specifier: ^19.1.0
         version: 19.1.0(react@19.1.0)
       vite:
-        specifier: ^6.3.1
-        version: 6.3.1(@types/node@22.14.1)
+        specifier: ^6.3.2
+        version: 6.3.2(@types/node@22.14.1)
     devDependencies:
       '@githubnext/vitale':
         specifier: ^0.0.19
@@ -963,8 +963,8 @@ packages:
       terser:
         optional: true
 
-  vite@6.3.1:
-    resolution: {integrity: sha512-kkzzkqtMESYklo96HKKPE5KKLkC1amlsqt+RjFMlX2AvbRB/0wghap19NdBxxwGZ+h/C6DLCrcEphPIItlGrRQ==}
+  vite@6.3.2:
+    resolution: {integrity: sha512-ZSvGOXKGceizRQIZSz7TGJ0pS3QLlVY/9hwxVh17W3re67je1RKYzFHivZ/t0tubU78Vkyb9WnHPENSBCzbckg==}
     engines: {node: ^18.0.0 || ^20.0.0 || >=22.0.0}
     hasBin: true
     peerDependencies:
@@ -1190,7 +1190,7 @@ snapshots:
       '@babel/helper-validator-identifier': 7.24.7
       chalk: 2.4.2
       js-tokens: 4.0.0
-      picocolors: 1.1.1
+      picocolors: 1.0.1
 
   '@babel/parser@7.25.3':
     dependencies:
@@ -1586,14 +1586,14 @@ snapshots:
 
   '@types/vscode@1.92.0': {}
 
-  '@vitejs/plugin-react@4.3.4(vite@6.3.1(@types/node@22.14.1))':
+  '@vitejs/plugin-react@4.3.4(vite@6.3.2(@types/node@22.14.1))':
     dependencies:
       '@babel/core': 7.26.0
       '@babel/plugin-transform-react-jsx-self': 7.25.9(@babel/core@7.26.0)
       '@babel/plugin-transform-react-jsx-source': 7.25.9(@babel/core@7.26.0)
       '@types/babel__core': 7.20.5
       react-refresh: 0.14.2
-      vite: 6.3.1(@types/node@22.14.1)
+      vite: 6.3.2(@types/node@22.14.1)
     transitivePeerDependencies:
       - supports-color
 
@@ -1849,7 +1849,7 @@ snapshots:
       '@types/node': 22.14.1
       fsevents: 2.3.3
 
-  vite@6.3.1(@types/node@22.14.1):
+  vite@6.3.2(@types/node@22.14.1):
     dependencies:
       esbuild: 0.25.2
       fdir: 6.4.3(picomatch@4.0.2)
