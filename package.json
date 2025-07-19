@@ -16,7 +16,7 @@
   "dependencies": {
     "@azure-rest/ai-inference": "1.0.0-beta.6",
     "@azure/core-auth": "^1.10.0",
-    "@azure/core-sse": "^2.2.0",
+    "@azure/core-sse": "^2.3.0",
     "@octokit/core": "^7.0.3",
     "@vitejs/plugin-react": "^4.5.2",
     "react": "^19.1.0",
