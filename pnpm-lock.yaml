@@ -22,7 +22,7 @@ importers:
         version: 7.0.3
       '@vitejs/plugin-react':
         specifier: ^5.0.0
-        version: 5.0.0(vite@7.1.1(@types/node@24.2.1))
+        version: 5.0.0(vite@7.1.2(@types/node@24.2.1))
       react:
         specifier: ^19.1.1
         version: 19.1.1
@@ -30,8 +30,8 @@ importers:
         specifier: ^19.1.1
         version: 19.1.1(react@19.1.1)
       vite:
-        specifier: ^7.1.1
-        version: 7.1.1(@types/node@24.2.1)
+        specifier: ^7.1.2
+        version: 7.1.2(@types/node@24.2.1)
     devDependencies:
       '@githubnext/vitale':
         specifier: ^0.0.19
@@ -986,8 +986,8 @@ packages:
       terser:
         optional: true
 
-  vite@7.1.1:
-    resolution: {integrity: sha512-yJ+Mp7OyV+4S+afWo+QyoL9jFWD11QFH0i5i7JypnfTcA1rmgxCbiA8WwAICDEtZ1Z1hzrVhN8R8rGTqkTY8ZQ==}
+  vite@7.1.2:
+    resolution: {integrity: sha512-J0SQBPlQiEXAF7tajiH+rUooJPo0l8KQgyg4/aMunNtrOa7bwuZJsJbDWzeljqQpgftxuq5yNJxQ91O9ts29UQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -1643,7 +1643,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@vitejs/plugin-react@5.0.0(vite@7.1.1(@types/node@24.2.1))':
+  '@vitejs/plugin-react@5.0.0(vite@7.1.2(@types/node@24.2.1))':
     dependencies:
       '@babel/core': 7.28.0
       '@babel/plugin-transform-react-jsx-self': 7.27.1(@babel/core@7.28.0)
@@ -1651,7 +1651,7 @@ snapshots:
       '@rolldown/pluginutils': 1.0.0-beta.30
       '@types/babel__core': 7.20.5
       react-refresh: 0.17.0
-      vite: 7.1.1(@types/node@24.2.1)
+      vite: 7.1.2(@types/node@24.2.1)
     transitivePeerDependencies:
       - supports-color
 
@@ -1906,7 +1906,7 @@ snapshots:
       '@types/node': 24.2.1
       fsevents: 2.3.3
 
-  vite@7.1.1(@types/node@24.2.1):
+  vite@7.1.2(@types/node@24.2.1):
     dependencies:
       esbuild: 0.25.8
       fdir: 6.4.6(picomatch@4.0.3)
