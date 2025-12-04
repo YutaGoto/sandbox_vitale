@@ -9,7 +9,7 @@
   "devDependencies": {
     "@githubnext/vitale": "^0.0.19",
     "@types/node": "~24.2.1",
-    "@types/react": "^19.1.16",
+    "@types/react": "^19.2.7",
     "@types/react-dom": "^19.1.9",
     "typescript": "npm:@githubnext/typescript@5.4.5-hacked.1"
   },
@@ -19,7 +19,7 @@
     "@azure/core-sse": "^2.3.0",
     "@octokit/core": "^7.0.6",
     "@vitejs/plugin-react": "^5.0.4",
-    "react": "^19.1.1",
+    "react": "^19.2.1",
     "react-dom": "^19.1.1",
     "vite": "^7.1.12"
   }
