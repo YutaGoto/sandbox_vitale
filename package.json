@@ -10,7 +10,7 @@
     "@githubnext/vitale": "^0.0.19",
     "@types/node": "~25.0.9",
     "@types/react": "^19.2.8",
-    "@types/react-dom": "^19.1.9",
+    "@types/react-dom": "^19.2.3",
     "typescript": "npm:@githubnext/typescript@5.4.5-hacked.1"
   },
   "dependencies": {
@@ -20,7 +20,7 @@
     "@octokit/core": "^7.0.6",
     "@vitejs/plugin-react": "^5.1.2",
     "react": "^19.2.3",
-    "react-dom": "^19.1.1",
+    "react-dom": "^19.2.3",
     "vite": "^7.3.1"
   }
 }
