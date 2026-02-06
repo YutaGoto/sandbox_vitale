@@ -40,11 +40,11 @@ importers:
         specifier: ~25.0.10
         version: 25.0.10
       '@types/react':
-        specifier: ^19.2.12
-        version: 19.2.12
+        specifier: ^19.2.13
+        version: 19.2.13
       '@types/react-dom':
         specifier: ^19.2.3
-        version: 19.2.3(@types/react@19.2.12)
+        version: 19.2.3(@types/react@19.2.13)
       typescript:
         specifier: npm:@githubnext/typescript@5.4.5-hacked.1
         version: '@githubnext/typescript@5.4.5-hacked.1'
@@ -729,8 +729,8 @@ packages:
     peerDependencies:
       '@types/react': ^19.2.0
 
-  '@types/react@19.2.12':
-    resolution: {integrity: sha512-22v4srzdW0RP/o1SSBaDEoid99oodPAY6zx9xYj0GnJQP0YXgBpwi2zrEN6iamB6EijL9H9QsgsNeSK8rFBJtA==}
+  '@types/react@19.2.13':
+    resolution: {integrity: sha512-KkiJeU6VbYbUOp5ITMIc7kBfqlYkKA5KhEHVrGMmUUMt7NeaZg65ojdPk+FtNrBAOXNVM5QM72jnADjM+XVRAQ==}
 
   '@types/vscode@1.92.0':
     resolution: {integrity: sha512-DcZoCj17RXlzB4XJ7IfKdPTcTGDLYvTOcTNkvtjXWF+K2TlKzHHkBEXNWQRpBIXixNEUgx39cQeTFunY0E2msw==}
@@ -1675,11 +1675,11 @@ snapshots:
     dependencies:
       undici-types: 7.16.0
 
-  '@types/react-dom@19.2.3(@types/react@19.2.12)':
+  '@types/react-dom@19.2.3(@types/react@19.2.13)':
     dependencies:
-      '@types/react': 19.2.12
+      '@types/react': 19.2.13
 
-  '@types/react@19.2.12':
+  '@types/react@19.2.13':
     dependencies:
       csstype: 3.2.3
 
