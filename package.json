@@ -20,7 +20,7 @@
     "@octokit/core": "^7.0.6",
     "@vitejs/plugin-react": "^5.2.0",
     "react": "^19.2.6",
-    "react-dom": "^19.2.5",
+    "react-dom": "^19.2.6",
     "vite": "^8.0.11"
   }
 }
