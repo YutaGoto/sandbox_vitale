@@ -19,7 +19,7 @@
     "@azure/core-sse": "^2.3.0",
     "@octokit/core": "^7.0.6",
     "@vitejs/plugin-react": "^6.0.3",
-    "react": "^19.2.7",
+    "react": "^19.2.8",
     "react-dom": "^19.2.7",
     "vite": "^8.1.5"
   }
